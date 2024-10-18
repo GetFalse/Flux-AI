@@ -4,21 +4,21 @@
 
 ## Main Products
 
-1. **[Flux 1.1 Pro](https://fluxaiimagegenerator.com/flux-pro/)** (New): The latest and most advanced version, offering faster processing and enhanced image quality.
+1. **[Flux 1.1 Pro](https://fluxaiimagegenerator.com/flux11-pro)** (New): The latest and most advanced version, offering faster processing and enhanced image quality.
 
-2. **[Flux Pro](https://fluxaiimagegenerator.com/flux-pro/)**: The flagship model designed for professional-grade image generation.
+2. **[Flux Pro](https://fluxaiimagegenerator.com/flux-pro)**: The flagship model designed for professional-grade image generation.
 
-3. **[Flux Dev](https://fluxaiimagegenerator.com/flux-dev/)**: An enhanced version that offers better stability and quality compared to Flux Schnell.
+3. **[Flux Dev](https://fluxaiimagegenerator.com/flux-dev)**: An enhanced version that offers better stability and quality compared to Flux Schnell.
 
-4. **[Flux Schnell](https://fluxaiimagegenerator.com/flux-schnell/)**: A speed-optimized version for rapid local development and personal projects.
+4. **[Flux Schnell](https://fluxaiimagegenerator.com/flux-schnell)**: A speed-optimized version for rapid local development and personal projects.
 
 ## Free Tools
 
 Flux AI also provides several free tools to assist users in their creative process:
 
-- **[Text To Prompt Generator](https://fluxaiimagegenerator.com/text-to-prompt-generator/)**: Converts ideas into detailed text prompts for the Flux AI Image Generator.
-- **[Image To Prompt Generator](https://fluxaiimagegenerator.com/image-to-prompt-generator/)**: Transforms existing images into detailed text prompts.
-- **[Image To Caption Generator](https://fluxaiimagegenerator.com/image-to-caption-generator/)**: Generates captions for social media posts based on images.
+- **[Text To Prompt Generator](https://fluxaiimagegenerator.com/flux-prompt-generator)**: Converts ideas into detailed text prompts for the Flux AI Image Generator.
+- **[Image To Prompt Generator](https://fluxaiimagegenerator.com/image-to-prompt)**: Transforms existing images into detailed text prompts.
+- **[Image To Caption Generator](https://fluxaiimagegenerator.com/image-to-caption)**: Generates captions for social media posts based on images.
 
 ## Key Features
 
